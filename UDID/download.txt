@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=https://sentryrevoke.com/EvoFlight/app.plist

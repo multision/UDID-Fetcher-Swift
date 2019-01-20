@@ -1,0 +1,15 @@
+Package: com.MasonD3V.EvoFlight-ObjC
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Sentry Revoke <masond3v@protonmail.com>
+Depends: net.angelxwind.appsyncunified
+Filename: debs//EvoFlight.deb
+Size: 425444
+MD5sum: b0179beedc709817571b431fcd6abd4e
+SHA1: 91395dbc7d98bdf0971fd737f0ae71af218320f5
+SHA256: 259912e4d14a45763c0871792465de43224b0bb95cce4f8f6044eac9208ef54e
+Section: Applications
+Description: Anemone is required for these themes to work.
+Author: Mason Scherbarth <masond3v@protonmail.com>
+Depiction: https://sentryrevoke.com/repo/depic/evoflight.messages/index.html
+Name: EvoFlight
